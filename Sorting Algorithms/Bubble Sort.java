@@ -1,30 +1,30 @@
 /*
- * BubbleSort.java
- * 
- * Description:
- * Bubble Sort is one of the simplest sorting algorithms. It repeatedly compares
- * adjacent elements and swaps them if they are in the wrong order. This process
- * continues until the array is completely sorted.
- * 
- * Use Cases:
- * - When you need a simple sorting algorithm for small datasets.
- * - Good for educational purposes to understand the concept of comparisons and swaps.
- * - Not ideal for large datasets (inefficient compared to more advanced algorithms).
- * 
- * Time Complexity:
- * - Best Case: O(n)  → when the array is already sorted.
- * - Average Case: O(n²)
- * - Worst Case: O(n²)
- * 
- * Space Complexity:
- * - O(1) → in-place sorting (no extra memory used)
- * 
- * Approach:
- * 1. Loop through the array multiple times.
- * 2. On each pass, compare adjacent elements.
- * 3. If one element is larger than the next, swap them.
- * 4. With every pass, the largest element "bubbles up" to the end.
- * 5. Repeat until no swaps are needed (the array is sorted).
+  BubbleSort.java
+  
+  Description:
+  Bubble Sort is one of the simplest sorting algorithms. It repeatedly compares
+  adjacent elements and swaps them if they are in the wrong order. This process
+  continues until the array is completely sorted.
+  
+  Use Cases:
+  - When you need a simple sorting algorithm for small datasets.
+  - Good for educational purposes to understand the concept of comparisons and swaps.
+  - Not ideal for large datasets (inefficient compared to more advanced algorithms).
+ 
+  Time Complexity:
+  - Best Case: O(n)  → when the array is already sorted.
+  - Average Case: O(n²)
+  - Worst Case: O(n²)
+  
+  Space Complexity:
+  - O(1) → in-place sorting (no extra memory used)
+  
+  Approach:
+  1. Loop through the array multiple times.
+  2. On each pass, compare adjacent elements.
+  3. If one element is larger than the next, swap them.
+  4. With every pass, the largest element "bubbles up" to the end.
+  5. Repeat until no swaps are needed (the array is sorted).
  */
 
 public class BubbleSort {
