@@ -88,7 +88,7 @@ To add or improve an algorithm:
 
 4. Submit a pull request
 
-*** Guidelines: ***
+## Guidelines: ##
   - Follow consistent Java naming conventions
   - Comment your logic clearly
   - Include time and space complexity
