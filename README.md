@@ -9,7 +9,7 @@ Every algorithm here is designed to make learning **fun, practical, and easy to 
 
 >  *“The best way to learn algorithms is not just to read them — it’s to build them, run them, and break them.”*  
 
-So grab your keyboard, explore the code, and start sharpening your logic — one algorithm at a time!   
+ So grab your keyboard, explore the code, and start sharpening your logic — one algorithm at a time!   
 ---
 
 ##  Algorithms Included
@@ -73,12 +73,9 @@ So grab your keyboard, explore the code, and start sharpening your logic — one
    cd ...
 
 2. Compile and run any algorithm
-  javac sorting/BubbleSort.java
-  java sorting.BubbleSort
-
 3. Explore, learn, and modify the algorithms as you go!
 
- ##Contributing##
+ ## Contributing ##
 
 Contributions are welcome!
 To add or improve an algorithm:
@@ -91,10 +88,10 @@ To add or improve an algorithm:
 
 4. Submit a pull request
 
-***Guidelines:***
-  -Follow consistent Java naming conventions
-  -Comment your logic clearly
-  -Include time and space complexity
+*** Guidelines: ***
+  - Follow consistent Java naming conventions
+  - Comment your logic clearly
+  - Include time and space complexity
 
  ## Support: ##
 
