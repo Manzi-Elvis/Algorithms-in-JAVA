@@ -1,5 +1,4 @@
 /*
-  BubbleSort.java
   
   Description:
   Bubble Sort is one of the simplest sorting algorithms. It repeatedly compares

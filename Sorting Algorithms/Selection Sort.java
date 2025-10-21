@@ -1,5 +1,5 @@
 /*
- * 
+  
  * Description:
  * Selection Sort is a straightforward sorting algorithm that divides the array 
  * into two parts: a sorted portion and an unsorted portion. 
