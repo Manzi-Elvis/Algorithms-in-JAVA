@@ -1,6 +1,5 @@
 /*
-  LinearSearch.java
-  
+
   Description:
   Linear Search (also known as Sequential Search) is the simplest search algorithm.
   It checks every element in the array, one by one, until it finds the target value
