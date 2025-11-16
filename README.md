@@ -66,14 +66,8 @@ Every algorithm here is designed to make learning **fun, practical, and easy to 
 ---
 
 ##  How to Use
-
-1. **Clone the repository**
-   ```bash
-   git clone ...
-   cd ...
-
-2. Compile and run any algorithm
-3. Explore, learn, and modify the algorithms as you go!
+1. Compile and run any algorithm
+2. Explore, learn, and modify the algorithms as you go!
 
  ## Contributing ##
 
